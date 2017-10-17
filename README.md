@@ -1,5 +1,5 @@
-# Express-Debugging-Middleware
-## Tutorial - How to Debug Express Middleware
+# [Express-Debugging-Middleware](https://blog.charlie.fish/debug-express-middleware/)
+## [Tutorial - How to Debug Express Middleware](https://blog.charlie.fish/debug-express-middleware/)
 
 [Express.js](https://expressjs.com) is a great web framework to easily create web applications. One of the amazing features of Express.js is the ability to use middleware. This allows certain actions to be run on all incoming requests to the server. For example this can be used to verify a user is logged in, or to keep logs of all requests, or to parse JSON into the correct format before handling it, or many other things. Almost every Express.js application I have built uses some middleware to help handle various tasks.
 
